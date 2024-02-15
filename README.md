@@ -1,5 +1,5 @@
 # sercomm_fwutils_new
-A set of utilites for manipulating Sercomm's firmware image.
+A set of utilites for manipulating Sercomm's router firmware images.
 
 ## Prerequisites
 Python 3
