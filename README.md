@@ -26,6 +26,8 @@ binwalk -M -e decrypted_image.bin
 
 ## Tested firmware images
 firmware-speedport-w724v-typc-v09011603-06-010.img
+firmware-speedport-entry2-v090126-2-6-009-0.img
+firmware-speedport-neo-v090128-2-6-008-0.img
 
 ## Inspiration
 https://github.com/Psychotropos/sercomm_fwutils
