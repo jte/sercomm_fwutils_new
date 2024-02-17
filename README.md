@@ -31,3 +31,7 @@ firmware-speedport-neo-v090128-2-6-008-0.img
 
 ## Inspiration
 https://github.com/Psychotropos/sercomm_fwutils
+
+## Related projects
+https://github.com/nikolas-n/Speedport-Plus-Cosmote-Router-hacks
+https://github.com/danitool/sercomm-recovery
